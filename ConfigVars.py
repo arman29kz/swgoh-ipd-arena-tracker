@@ -1,9 +1,9 @@
 CUSTOM_MESSAGE_CLIMB
- %USER_ICON%`%PLAYER_NAME%` climbed from %PREVIOUS_RANK% to **%CURRENT_RANK%**, payout in `%TIME_TO_PO%`
+ %USER_ICON%`%PLAYER_NAME%` climbed from %PREVIOUS_RANK% to **%CURRENT_RANK%**, payout in `%TIME_TO_PO%` %TAG_ON_CLIMB%
 
   
 CUSTOM_MESSAGE_DROP
- %USER_ICON%`%PLAYER_NAME%` dropped from %PREVIOUS_RANK% to **%CURRENT_RANK%**, payout in `%TIME_TO_PO%`
+ %USER_ICON%`%PLAYER_NAME%` dropped from %PREVIOUS_RANK% to **%CURRENT_RANK%**, payout in `%TIME_TO_PO%` %TAG_ON_DROP%
 
  
 CUSTOM_MESSAGE_STATUS
