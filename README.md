@@ -47,3 +47,5 @@ That's it, it should have only one line and nothing else. Once again, use Notepa
 7. run `fly deploy` from the folder with your two files. It will take a couple of minutes to built and start the app. You'll get a message when deploy succeeds.
 8. If you were running in Heroku, stop the app there.
 9. Test if things are running by completing a battle. If a notification shows up in #sniper-rb, congratulations.
+
+Source - https://rentry.co/swgoh-sniper-bot/
