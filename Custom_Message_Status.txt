@@ -1,0 +1,1 @@
+"%USER_ICON% [%PLAYER_NAME%](<https://swgoh.gg/p/%ALLY_CODE%/>) | `%CURRENT_RANK%` | `%TIME_TO_PO%`"
